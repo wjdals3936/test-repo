@@ -9,3 +9,5 @@ print('n')
 print("대신에")
 print("Wellcom")
 prunt("으앙")
+
+#print함수의 괄호 안에 문자열을 넣을때는 따옴표 또는 큰따옴표를 넣어주어야 함
